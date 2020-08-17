@@ -1,0 +1,9 @@
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/bin/Debug/netstandard2.0/BugTracker.Domain.deps.json
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/bin/Debug/netstandard2.0/BugTracker.Domain.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/bin/Debug/netstandard2.0/BugTracker.Domain.pdb
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/obj/Debug/netstandard2.0/BugTracker.Domain.csprojAssemblyReference.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/obj/Debug/netstandard2.0/BugTracker.Domain.AssemblyInfoInputs.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/obj/Debug/netstandard2.0/BugTracker.Domain.AssemblyInfo.cs
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/obj/Debug/netstandard2.0/BugTracker.Domain.csproj.CoreCompileInputs.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/obj/Debug/netstandard2.0/BugTracker.Domain.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/obj/Debug/netstandard2.0/BugTracker.Domain.pdb
