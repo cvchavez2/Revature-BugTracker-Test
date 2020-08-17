@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xt2zW3F/O9WegDmHQC4ceVL2LipNlDOvcueBXtt9C4POOpugDSLe+QYP2T/CqiJ+SdAXOql+0jLbZYTsr/pnjw==",
+  "success": true,
+  "projectFilePath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/BugTracker.Storing.csproj",
+  "expectedPackageFiles": [
+    "/Users/cvchavez2/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/cvchavez2/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
