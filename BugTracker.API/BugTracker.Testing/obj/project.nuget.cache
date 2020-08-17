@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JGqaLOz6jPYq+fcRKwUWI54vnZjTph0Po8GNManxbb2kBg6R4azNaOXeq4jz/b4tY5fyxb+D/ptRwvN3WxcpBQ==",
+  "dgSpecHash": "xID05vQNDJggKBwdqAkvWieG9MLLHgFJ+yx2zNteM3Zqlgxr8DAKXdGNL4CLmFgZJC+/fT1zA0ShvkGQOOJmuw==",
   "success": true,
   "projectFilePath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Testing/BugTracker.Testing.csproj",
   "expectedPackageFiles": [
     "/Users/cvchavez2/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
+    "/Users/cvchavez2/.nuget/packages/coverlet.msbuild/2.9.0/coverlet.msbuild.2.9.0.nupkg.sha512",
     "/Users/cvchavez2/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/Users/cvchavez2/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/cvchavez2/.nuget/packages/microsoft.net.test.sdk/16.5.0/microsoft.net.test.sdk.16.5.0.nupkg.sha512",
