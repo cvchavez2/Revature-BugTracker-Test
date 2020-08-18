@@ -17,3 +17,9 @@
 /Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/obj/Debug/netcoreapp3.1/BugTracker.Api.dll
 /Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/obj/Debug/netcoreapp3.1/BugTracker.Api.pdb
 /Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/obj/Debug/netcoreapp3.1/BugTracker.Api.genruntimeconfig.cache
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/obj/Debug/netcoreapp3.1/BugTracker.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/obj/Debug/netcoreapp3.1/BugTracker.Api.csproj.CopyComplete

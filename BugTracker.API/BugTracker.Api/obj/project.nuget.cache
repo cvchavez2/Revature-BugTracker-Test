@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "pqlR+S9N7lkSHE6A4X7yQT7O/M5rxMJLuk2EOB06N804Ld4xSuuOyZrFsSZhQ7xMBJjxo0fWI5MQSeVnU08dyg==",
+  "dgSpecHash": "ibU9Lf1xZd9UFV/Py5ogdPMcsR7s5q7E/+UKPauOkAB7KLWZbSv7HVHkjpM8uqMIbijPrYMKwHVVfIU/nT+AEg==",
   "success": true,
   "projectFilePath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Api/BugTracker.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/cvchavez2/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/cvchavez2/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
+    "/Users/cvchavez2/.nuget/packages/swashbuckle.aspnetcore/5.5.0/swashbuckle.aspnetcore.5.5.0.nupkg.sha512",
+    "/Users/cvchavez2/.nuget/packages/swashbuckle.aspnetcore.swagger/5.5.0/swashbuckle.aspnetcore.swagger.5.5.0.nupkg.sha512",
+    "/Users/cvchavez2/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.5.0/swashbuckle.aspnetcore.swaggergen.5.5.0.nupkg.sha512",
+    "/Users/cvchavez2/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.5.0/swashbuckle.aspnetcore.swaggerui.5.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
