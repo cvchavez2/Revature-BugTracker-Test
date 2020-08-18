@@ -1,6 +1,6 @@
 namespace BugTracker.Domain.Models
 {
-  public class Developer : AModel
+  public class Developer : AUser
   {
 
   }
