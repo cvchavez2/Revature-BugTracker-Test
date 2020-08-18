@@ -7,3 +7,6 @@
 /Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/obj/Debug/netstandard2.0/BugTracker.Storing.csproj.CoreCompileInputs.cache
 /Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/obj/Debug/netstandard2.0/BugTracker.Storing.dll
 /Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/obj/Debug/netstandard2.0/BugTracker.Storing.pdb
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/bin/Debug/netstandard2.0/BugTracker.Domain.dll
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/bin/Debug/netstandard2.0/BugTracker.Domain.pdb
+/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/obj/Debug/netstandard2.0/BugTracker.Storing.csproj.CopyComplete

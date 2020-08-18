@@ -4,14 +4,14 @@
     "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/BugTracker.Storing.csproj": {}
   },
   "projects": {
-    "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/BugTracker.Storing.csproj": {
+    "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/BugTracker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/BugTracker.Storing.csproj",
-        "projectName": "BugTracker.Storing",
-        "projectPath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/BugTracker.Storing.csproj",
+        "projectUniqueName": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/BugTracker.Domain.csproj",
+        "projectName": "BugTracker.Domain",
+        "projectPath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/BugTracker.Domain.csproj",
         "packagesPath": "/Users/cvchavez2/.nuget/packages/",
-        "outputPath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/obj/",
+        "outputPath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cvchavez2/.nuget/NuGet/NuGet.Config"
@@ -36,6 +36,81 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/BugTracker.Storing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/BugTracker.Storing.csproj",
+        "projectName": "BugTracker.Storing",
+        "projectPath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/BugTracker.Storing.csproj",
+        "packagesPath": "/Users/cvchavez2/.nuget/packages/",
+        "outputPath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Storing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cvchavez2/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/BugTracker.Domain.csproj": {
+                "projectPath": "/Users/cvchavez2/Developer/VisualStudioCode/Revature/in-training/2007_13_dotnet/week6/p2-test/BugTracker.API/BugTracker.Domain/BugTracker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

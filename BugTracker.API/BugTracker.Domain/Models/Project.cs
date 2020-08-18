@@ -7,11 +7,12 @@ namespace BugTracker.Domain.Models
     public Project()
     {
       Tickets = new List<Ticket>();
-      Users = new List<AUser>();
+      Developers = new List<Developer>();
+      Managers = new List<Manager>();
     }
     public List<Ticket> Tickets { get; set; }
-
-    public List<AUser> Users { get; set; }
+    public List<Developer> Developers { get; set; }
+    public List<Manager> Managers { get; set; }
 
   }
 }
